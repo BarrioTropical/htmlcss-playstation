@@ -48,7 +48,7 @@ body{
 /* HERO SECTION */
 #hero{
     height: 500px;
-    background-image: url(/img/jumbo-bg.png);
+    background-image: url(../img/jumbo-bg.png);
     background-size: cover;
     background-position: center center; 
     color: var(--white);
@@ -83,8 +83,7 @@ a.btn-red{
 
 /* SECTION HERO2 */
 #hero2{
-    background-image: url(/img/it-takes-two-hero-banner-desktop.jpg);
-
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-repeat: no-repeat;
     background-position: center;
     color: var(--white);
@@ -104,6 +103,17 @@ a.btn-red{
 /* SECTION SCONTI */
 
 /* SECTION PLAYNOW */
+#play-now{
+    height: 500px;
+    background-color: var(--dark-blue);
+    background-size: cover;
+    background-position: center center; 
+    color: var(--white);
+}
+
+.bg_grey{
+    background-color:var(--light-grey);
+}
 
 /* SECTION SOCIAL */
 
