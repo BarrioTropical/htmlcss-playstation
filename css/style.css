@@ -137,7 +137,20 @@ a.btn-blue{
 }
 
 /* FOOTER */
+footer{
+    color: var(--white);
+}
 
-/* TOP FOOTER */
+footer ul li{
+    color: var(--white);
+    list-style: none;
+}
 
-/* SUB FOOTER */
+footer a{
+    color: var(--white);
+    text-decoration: none;
+}
+
+.sie-logo{
+    width: 150px;
+}
