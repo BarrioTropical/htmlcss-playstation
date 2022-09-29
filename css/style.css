@@ -131,6 +131,10 @@ a.btn-blue{
 }
 
 /* SECTION SOCIAL */
+.container-social{
+    max-width: 500px;
+    margin: 0 auto;
+}
 
 /* FOOTER */
 
