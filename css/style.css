@@ -1,0 +1,59 @@
+/* GENERALS */
+:root{
+    --black: rgba(31,31,31,1);
+    --blue: rgba(58,109,231,1);
+    --light-grey: rgba(190, 188, 187,1);
+    --dark-blue: rgba(22, 28, 59,1);
+    --red: rgba(205,61,15,1);
+    --lavish-white: rgba(217,218,220,1);
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.mybg-black{
+    background-color: var(--black);
+}
+
+.mybg-light-grey{
+    background-color: var(--light-grey);
+}
+
+.mybg-dark-blue{
+    background-color: var(--dark-blue);
+}
+
+.mybg-blue{
+    background-color: var(--blue);
+}
+
+/* HEADER */
+
+/* NAVBAR */
+
+/* MAIN */
+
+/* HERO SECTION */
+
+/* SECTION CAROUSEL */
+
+/* SECTION HERO2 */
+
+/* SECTION NUOVE USCITE */
+
+/* SECTION PRODOTTI */
+
+/* SECTION ESPLORA */
+
+/* SECTION SCONTI */
+
+/* SECTION PLAYNOW */
+
+/* SECTION SOCIAL */
+
+/* FOOTER */
+
+/* TOP FOOTER */
+
+/* SUB FOOTER */
