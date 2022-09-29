@@ -30,6 +30,9 @@ body{
 }
 
 /* HEADER */
+header{
+    background-color: var(--white);
+}
 
 /* TOP NAVBAR */
 .mytopnavbar{
@@ -97,6 +100,18 @@ a.btn-red{
 /* SECTION NUOVE USCITE */
 
 /* SECTION PRODOTTI */
+a.btn-blue{
+    color: white;
+    border-width: 2px;
+}
+
+.bg_blue{
+    background-color:var(--blue);
+}
+.my-mx-4{
+    margin-right: 1.5rem;
+}
+
 
 /* SECTION ESPLORA */
 
