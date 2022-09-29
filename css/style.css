@@ -37,10 +37,41 @@ body{
 
 
 /* NAVBAR */
+.mylogo{
+    max-width: 50px;
+}
+
 
 /* MAIN */
 
 /* HERO SECTION */
+#hero{
+    height: 500px;
+    background-image: url(/img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center center; 
+    color: var(--lavish-white);
+}
+
+.mylogo-hero{
+    width: 200px;
+}
+
+.mytext-hero{
+    width: 400px;
+    padding-top: 70px;
+}
+
+a.btn-red{
+    color: white;
+    border-width: 2px;
+}
+
+.bg_red{
+    background-color:var(--red);
+}
+
+
 
 /* SECTION CAROUSEL */
 
