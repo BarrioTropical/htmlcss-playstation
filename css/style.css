@@ -69,6 +69,11 @@ header{
 a.btn-red{
     color: white;
     border-width: 2px;
+    border-radius: 20px;
+}
+
+.myborder{
+    border-radius: 20px;
 }
 
 .bg_red{
@@ -103,6 +108,7 @@ a.btn-red{
 a.btn-blue{
     color: white;
     border-width: 2px;
+    border-radius: 20px;
 }
 
 .bg_blue{
@@ -114,6 +120,17 @@ a.btn-blue{
 
 
 /* SECTION ESPLORA */
+#esplora{
+    height: 500px;
+    background-color: var(--light-grey);
+    background-size: cover;
+    background-position: center center; 
+    color: var(--white);
+}
+
+.bg_lightgrey{
+    background-color:var(--lavish-white);
+}
 
 /* SECTION SCONTI */
 
