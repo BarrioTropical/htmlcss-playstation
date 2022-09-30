@@ -89,6 +89,11 @@ a.btn-red{
     top: 0;
 }
 
+.mycarousel a:hover img{
+    border-color: var(--blue);
+    top: -8px;
+}
+
 /* SECTION HERO2 */
 #hero2{
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
